@@ -1,0 +1,31 @@
+{
+  "brand": {
+    "name": "Nuvora Digital",
+    "theme": "blue minimal elegant",
+    "contact": {
+      "email": "hello@nuvoradigital.com",
+      "whatsapp": "6281234567890"
+    }
+  },
+  "segments": [
+    {"id":"startup-founders","name":"Startup Founders","description":"Founder tahap awal yang butuh presence digital cepat untuk validasi market."},
+    {"id":"service-business","name":"Service Business","description":"Bisnis jasa yang ingin terlihat profesional dan mudah dipercaya calon klien."},
+    {"id":"personal-brand","name":"Personal Brand","description":"Kreator, konsultan, dan freelancer yang ingin mengubah traffic jadi lead."},
+    {"id":"online-education","name":"Online Education","description":"Kelas, bootcamp, dan mentor digital yang butuh funnel pendaftaran jelas."},
+    {"id":"local-business","name":"Local Business","description":"UMKM lokal yang ingin punya halaman promo sederhana tapi premium."}
+  ],
+  "types": [
+    {"id":"landing-page","name":"Landing Page","description":"Halaman penawaran tunggal untuk campaign, produk, atau jasa utama."},
+    {"id":"brand-kit","name":"Brand Kit","description":"Sistem visual mini berisi warna, tipografi, komponen, dan tone copy."},
+    {"id":"automation-flow","name":"Automation Flow","description":"Alur form, WhatsApp, email, dan lead capture untuk follow-up otomatis."},
+    {"id":"sales-funnel","name":"Sales Funnel","description":"Rangkaian halaman dan CTA untuk mengarahkan pengunjung sampai konversi."},
+    {"id":"dashboard-lite","name":"Dashboard Lite","description":"Panel ringkas untuk melihat lead, status campaign, dan performa awal."}
+  ],
+  "products": [
+    {"id":"nuvora-launch-one","name":"Nuvora Launch One","type":"Landing Page","segment":"Startup Founders","price":"Mulai 1,9jt","description":"Landing page satu halaman untuk validasi produk, waitlist, atau campaign launching."},
+    {"id":"nuvora-signal-kit","name":"Nuvora Signal Kit","type":"Brand Kit","segment":"Personal Brand","price":"Mulai 2,4jt","description":"Mini brand system untuk bikin tampilan digital lebih konsisten dan premium."},
+    {"id":"nuvora-flow-start","name":"Nuvora Flow Start","type":"Automation Flow","segment":"Service Business","price":"Mulai 2,8jt","description":"Setup form, lead capture, dan follow-up WhatsApp/email sederhana."},
+    {"id":"nuvora-course-funnel","name":"Nuvora Course Funnel","type":"Sales Funnel","segment":"Online Education","price":"Mulai 3,5jt","description":"Funnel pendaftaran untuk kelas, mentoring, webinar, atau digital course."},
+    {"id":"nuvora-local-pro","name":"Nuvora Local Pro","type":"Dashboard Lite","segment":"Local Business","price":"Mulai 3,9jt","description":"Landing page plus dashboard ringan untuk promosi dan tracking lead lokal."}
+  ]
+}
